@@ -1,0 +1,72 @@
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.deps.json
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.runtimeconfig.json
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.dll
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csprojAssemblyReference.cache
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfo.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.TagHelpers.input.cache
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.TagHelpers.output.cache
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorCoreGenerate.cache
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorTargetAssemblyInfo.cache
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorTargetAssemblyInfo.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.pdb
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.Views.dll
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.Views.pdb
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.Views.pdb
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.dll
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.pdb
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CopyComplete
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Create.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Delete.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Details.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Edit.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Index.g.cshtml.cs
+C:\Users\Hamza AMRANI\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\About.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.deps.json
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.runtimeconfig.json
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.dll
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.pdb
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.Views.dll
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.Views.pdb
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csprojAssemblyReference.cache
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfo.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.TagHelpers.input.cache
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.TagHelpers.output.cache
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorCoreGenerate.cache
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\About.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Create.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Delete.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Details.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Edit.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Index.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorTargetAssemblyInfo.cache
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorTargetAssemblyInfo.cs
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.Views.pdb
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.dll
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.pdb
+C:\Users\A696302\Desktop\MVC_PROJECTS-master\DotNetProjects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CopyComplete
